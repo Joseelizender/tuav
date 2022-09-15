@@ -1,0 +1,17 @@
+# EXTM3U
+# EXTINF: -1,TV PERU
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+# EXTINF: -2,ATV 
+
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+# EXTINF: -3,ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
+# EXTINF: -4,CARTOOM NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+# EXTINF: -5,Panamericana tv
+
+https://stream-03.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFnLxEuh15B8q3uWuKmgfLvUdFCUUxfXReuv0jOGmi2IE)/dm/3/x774s7s/s/live-0.m3u8#cell=lsv4
+
